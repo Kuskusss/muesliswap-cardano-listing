@@ -1,0 +1,9 @@
+{
+    "policyId": "152756a3bdb4cd3f1357c24d0486310f5edf399f1581a63bd730597c",
+    "name": "MeowChow",
+    "symbol": "MEOW",
+    "website": "https://pixelcatnft.com/",
+    "description": "MeowChow is a utility token for PixelCat NFT. Play N' Earn, hold and level up your PixelCats and many... many more to come!",
+    "totalSupply": 45000000000,
+    "amounts": [1, 10, 100, 1000, 10000, 100000]
+}
